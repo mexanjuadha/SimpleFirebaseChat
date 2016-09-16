@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479101664906",
+    "firebase_url": "https://simplefirebasechat-c1651.firebaseio.com",
+    "project_id": "simplefirebasechat-c1651",
+    "storage_bucket": "simplefirebasechat-c1651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479101664906:android:06b5ed997ad22723",
+        "android_client_info": {
+          "package_name": "com.icehouse.simplefirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479101664906-rv4bruinf5p32qkqsqmemup0u1l7v76m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEXqTbE1y-PEXPP5FQO9HY8M48CZXHzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
